@@ -69,4 +69,4 @@ The report features dynamic slicers for data segmentation:
 
 ## 6. Dashboard Preview  
 
-![AtliQ Hardware - Sales Insights Dashboard](assets/dashboard.png)  
+![AtliQ Hardware - Sales Insights Dashboard](assets/AtliQ%20Hardware%20-%20Dashboard.png)  
